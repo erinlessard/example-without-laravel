@@ -1,0 +1,1 @@
+Simple example project using some CQRS/Tactical DDD concepts. Intentionally avoided use of Laravel or heavy frameworks, as not to overcomplicate.
